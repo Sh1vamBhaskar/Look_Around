@@ -1,16 +1,22 @@
-# lookaround
 
-A new Flutter project.
 
-## Getting Started
+# LookAround - Nearby Places Finder
 
-This project is a starting point for a Flutter application.
+## How to Use the Application
 
-A few resources to get you started if this is your first Flutter project:
+1. **Grant Location Permission**  
+   When you open the app for the first time, it will ask for permission to access your current location. Please allow it to get accurate nearby places.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **View Nearby Places**  
+   Based on your current location, the app will display a list of nearby:
+   - Coffee Shops ☕
+   - ATMs 🏧
+   - Parks 🌳
+   - Restaurants 🍽️
+   - and more...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Tap to Explore**  
+   Tap on any place to view its details, location on map, and get directions if needed.
+
+4. **Search Other Locations (Optional)**  
+   In future versions, you can also manually search for places around any location.
